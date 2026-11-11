@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <path d="M 24 6 L 40 6 L 52 17 L 57 32 L 48 46 L 32 58 L 16 46 L 7 32 L 12 17 Z" fill="#100818" stroke="#100818" stroke-width="5" stroke-linejoin="round" transform="translate(0.8 1.25)"/>
+  <path d="M 24 6 L 40 6 L 52 17 L 57 32 L 48 46 L 32 58 L 16 46 L 7 32 L 12 17 Z" fill="#16d064"/>
+  <path d="M 16 46 L 32 35 L 48 46 L 32 58 Z" fill="#0c863e"/>
+  <path d="M 32 35 L 40 28 L 57 32 L 48 46 Z" fill="#086830"/>
+  <path d="M 7 32 L 24 28 L 32 35 L 16 46 Z" fill="#0ea84e"/>
+  <path d="M 12 17 L 7 32 L 24 28 Z" fill="#3ae07a"/>
+  <path d="M 40 6 L 52 17 L 57 32 L 40 28 L 36 19 Z" fill="#1ad066"/>
+  <path d="M 24 6 L 28 19 L 24 28 L 12 17 Z" fill="#c2ffd8"/>
+  <path d="M 24 6 L 40 6 L 36 19 L 28 19 Z" fill="#74f0a4"/>
+  <path d="M 28 19 L 36 19 L 40 28 L 32 35 L 24 28 Z" fill="#e5ffef"/>
+  <path d="M 30 9 L 35 10 L 32 14 Z" fill="#ffffff" fill-opacity="0.95"/>
+  <path d="M 29 20 L 34 21 L 32 26 L 28 24 Z" fill="#ffffff" fill-opacity="0.88"/>
+  <path d="M 24 6 L 40 6 L 52 17 L 57 32 L 48 46 L 32 58 L 16 46 L 7 32 L 12 17 Z" fill="none" stroke="#fffaf6" stroke-width="2.15" stroke-linejoin="round"/>
+</svg>
