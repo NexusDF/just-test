@@ -1,0 +1,22 @@
+:root {
+  color-scheme: dark;
+  --bg: #1a1030;
+  --fg: #f4efe6;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#app {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: system-ui, sans-serif;
+}
